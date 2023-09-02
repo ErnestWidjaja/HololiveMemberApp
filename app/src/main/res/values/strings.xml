@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Hololive Members</string>
+    <string name="description">Description</string>
+    <string name="debut">Debut Date</string>
+    <string name="birthday">Birthday</string>
+    <string name="height">Height</string>
+    <string name="unit">Unit</string>
+
+    <string-array name="data_name">
+        <item>AZKi</item>
+        <item>Akai Haato</item>
+        <item>Oozora Subaru</item>
+        <item>Inugami Korone</item>
+        <item>Usada Pekora</item>
+        <item>Tokoyami Towa</item>
+        <item>Omaru Polka</item>
+        <item>Takane Lui</item>
+        <item>Ayunda Risu</item>
+        <item>Anya Melfissa</item>
+        <item>Kaela Kovalskia</item>
+        <item>Watson Amelia</item>
+        <item>IRyS</item>
+        <item>Ceres Fauna</item>
+        <item>Koseki Bijou</item>
+    </string-array>
+
+    <string-array name="data_name_jp">
+        <item>あずき</item>
+        <item>赤井はあと</item>
+        <item>大空スバル</item>
+        <item>戌神ころね</item>
+        <item>兎田ぺこら</item>
+        <item>常闇トワ</item>
+        <item>尾丸ポルカ</item>
+        <item>鷹嶺ルイ</item>
+        <item>アユンダ・リス</item>
+        <item>アーニャ・メルフィッサ</item>
+        <item>カエラ・コヴァルスキア</item>
+        <item>ワトソン・アメリア</item>
+        <item>アイリス</item>
+        <item>セレス・ファウナ</item>
+        <item>古石ビジュー</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>I\'m the Virtual Diva AZKi! I love music and singing! A diva who became reborn into the virtual world in order to fabricate a new world. No matter the time, place, or position, she warps through all the barricades with her dazzling talent.</item>
+        <item>\"Welcome to your rouge awakening! This is Akai Haato!\" A sassy kouhai. She is often prickly, but she\'ll try to get a lot of attention from those who have made friends with her. She loves red ribbons and heart shapes, and she\'ll wear them often in her hair and on her clothes.</item>
+        <item>\"\'Sup! I\'m Oozora Subaru from hololive 2nd Generation!\" The manager of an MMA team and an e-sports club. A bright and cheerful girl full of spirit, she can interact with anyone and everyone without hesitation. She\'s currently working hard on her own pro-gamer skills. Another day of giving everything I\'ve got as a manager!!!!!!!!!!!</item>
+        <item>\"\'Ello! Fingers! Give me your fingers!" A dog from a bakery in the city. She likes to play games during her free time while watchdogging. </item>
+        <item>\"Hiya-peko! Hiya-peko! Hiya-pekooo! I\'m Usada Pekora, peko!" A lonely rabbit-eared girl who loves carrots. She loves them so much that she always brings a few anywhere she goes. </item>
+        <item>Suppies! \'Tis I, Tokoyami Towa, from hololive 4th Generation! A young devil who is visiting human society to gain experience and develop her skills. But instead of studying, she became addicted to video games! After learning about a tool for communicating with humans called \"streaming,\" she\'s trying it out to help with her studies.</item>
+        <item>A circus performer who joined hololive in hopes of becoming the ringmaster of the VTuber world. She enjoys wowing audiences with acrobatics, and she lives by the words, \"When you\'ve decided you\'re gonna do something, follow through!\"</item>
+        <item>The executive officer of Secret Society holoX. As holoX\'s point of contact and the one in charge of external affairs, she is the de facto leader of the group, handling matters that the founder cannot. While she may seem aloof and standoffish at first glance, she is a compassionate person who cares a lot for her subordinates. Unfortunately, she is also rather prone to screwing up in crucial moments.</item>
+        <item>Hewwrroo everyone ~!!\”; “Purupuru ganbari Risu ~!\” A squirrel girl from a magical forest. She was lost in the human world, but due to certain circumstances, she ends up living in the home of a kind older sister. To return the favor, she decides to become a VTuber. Risu act, most of the time, just like a squirrel she is. She loves to do subtle pranks on people, shy with new people, and love to tease her viewer. Her laugh is also one of her unique characteristic. </item>
+        <item>\"Good day! This is Anya Melfissa from hololive ID 2nd Generation.\" An ancient weapon known as \“Keris,\” she was granted human form through a mystical ritual performed by her master. She\’s just about always sleeping or playing games. Living mostly alone for so long has made her tend to be apathetic towards things and people she\’s uninterested in, but when talking about things she likes, she can be quite childlike and passionate. Her base personality is actually apathetic, especially towards humans. Don\’t let looks fool you – that\’s what every foolish human always does to themselves somehow.</item>
+        <item>After taking over her great blacksmithing teacher\'s forge, she felt a lack of excitement in her life. So, she decided to be free and depart on a journey to find rare smithing materials, one of which was rumored to be under the building of a certain \"idol group\" in town. She also loves challenging herself and has a peculiar taste when it comes to foods!</item>
+        <item>Amelia heard strange rumors online surrounding hololive: talking foxes, magical squirrels, superhuman dogs, and more. Soon after beginning her investigation on hololive, and just out of interest, she decided to become an idol herself! She loves to pass her time training her reflexes with FPS games, and challenging herself with puzzle games. \"It\'s elementary, right?\"</item>
+        <item>Diva of hololive English Project: HOPE IRyS IRyS, a half-demon, half-angel also known as a Nephilim, once brought hope to \"The Paradise\" during the ancient age. Her full name is ███████ Irys. This current era, riddled with despair and desperation, has brought upon her second awakening. She has arrived to deliver hope, with her feelings put into her lyrics and songs, and determination in her voice. Though she tends to retain her Nephilim form, she is still quite young within her race. With emotion and \"other factors,\" it is possible that her form may lean to either side. When that occurs, she bears a brief change in her appearance. She does not speak of the events that preceded her second awakening. She faces ever forward, perhaps because she is Hope Incarnate, though no one knows for sure. Or could it be... \"The future is not what helps people; the future is made with our own hands. Salvation is hypocrisy. If people know they are to be saved, they simply will not try. From the depths of despair: a glimmer of light, the warmth of recovery. As long as we are with hope, we live. We stand tall.\"</item>
+        <item>Keeper of \"Nature\" A member of the Council and the Keeper of \"Nature,\" the second concept created by the Gods. She has materialized in the mortal realm as a druid in a bid to save nature. She has Kirin blood flowing in her veins, and horns that are made out of the branches of a certain tree; they are NOT deer antlers. \"Nature\" refers to all organic matter on the planet except mankind. It is long said that her whispers, as an avatar of Mother Nature, have healing properties. Whether or not that is true is something only those who have heard them can say. While she is usually affable, warm, and slightly mischievous, any who anger her will bear the full brunt of Nature\'s fury.</item>
+        <item>\"I hope you\'ll feel my radiance!\" Formed from the crystallization of all forms of human emotion, Koseki Bijou is \"The Jewel of Emotions.\" Over years and years, emotions of beauty and filth alike have woven into her under immense pressure, resulting in an unmatched brilliance. Her ancient, mystic brilliance caused strife between the masses of the greedy, who fought over ownership of her. This led to her being imprisoned in secrecy, far from the reach of humans. It seems as though when she encounters people, and particularly their good emotions, her radiance </item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/azki</item>
+        <item>@drawable/haachama</item>
+        <item>@drawable/subaru</item>
+        <item>@drawable/korone</item>
+        <item>@drawable/pekora</item>
+        <item>@drawable/towa</item>
+        <item>@drawable/polka</item>
+        <item>@drawable/lui</item>
+        <item>@drawable/risu</item>
+        <item>@drawable/anya</item>
+        <item>@drawable/kaela</item>
+        <item>@drawable/ame</item>
+        <item>@drawable/irys</item>
+        <item>@drawable/fauna</item>
+        <item>@drawable/bijou</item>
+    </integer-array>
+
+    <string-array name="data_debut">
+        <item>November 15, 2018</item>
+        <item>June 2, 2018</item>
+        <item>September 16, 2018</item>
+        <item>April 13, 2019</item>
+        <item>July 17, 2019</item>
+        <item>January 3, 2020</item>
+        <item>August 16, 2020</item>
+        <item>November 27, 2021</item>
+        <item>April 10, 2020</item>
+        <item>December 5, 2020</item>
+        <item>March 26, 2022</item>
+        <item>September 13, 2020</item>
+        <item>July 11,2021</item>
+        <item>August 23, 2021</item>
+        <item>July 30, 2023</item>
+    </string-array>
+
+    <string-array name="data_birthday">
+        <item>July 1</item>
+        <item>August 10</item>
+        <item>July 2</item>
+        <item>October 1</item>
+        <item>January 12</item>
+        <item>August 8</item>
+        <item>January 30</item>
+        <item>June 11</item>
+        <item>January 15</item>
+        <item>March 12</item>
+        <item>August 30</item>
+        <item>January 6</item>
+        <item>March 7</item>
+        <item>March 21</item>
+        <item>April 14</item>
+    </string-array>
+
+    <string-array name="data_height">
+        <item>158 cm</item>
+        <item>154 cm</item>
+        <item>154 cm</item>
+        <item>156 cm</item>
+        <item>153 cm</item>
+        <item>150 cm</item>
+        <item>153 cm</item>
+        <item>161 cm</item>
+        <item>153 cm</item>
+        <item>147 cm</item>
+        <item>173 cm</item>
+        <item>150 cm</item>
+        <item>166 cm</item>
+        <item>164 cm</item>
+        <item>140 cm</item>
+    </string-array>
+
+    <string-array name="data_unit">
+        <item>hololive Generation 0</item>
+        <item>hololive 1st Generation</item>
+        <item>hololive 2nd Generation</item>
+        <item>hololive GAMERS</item>
+        <item>hololive 3rd Generation</item>
+        <item>hololive 4th Generation</item>
+        <item>hololive 5th Generation</item>
+        <item>holoX</item>
+        <item>hololive Indonesia</item>
+        <item>hololive Indonesia</item>
+        <item>hololive Indonesia</item>
+        <item>hololive English -Myth-</item>
+        <item>hololive English Project: HOPE</item>
+        <item>hololive English -Council-</item>
+        <item>hololive English -Advent-</item>
+    </string-array>
+</resources>
